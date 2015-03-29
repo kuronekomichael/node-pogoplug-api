@@ -1,0 +1,32 @@
+{
+  "name": "pogoplug-api",
+  "version": "0.1.0",
+  "description": "UNOFFICIAL pogoplug api for nodejs",
+  "main": "lib/pogoplug.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kuronekomichael/node-pogoplug-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "pogoplug",
+    "javascript"
+  ],
+  "author": "kuronekomichael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuronekomichael/node-pogoplug-api/issues"
+  },
+  "homepage": "https://github.com/kuronekomichael/node-pogoplug-api",
+  "dependencies": {
+    "request": "~2.34.0"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "^2.2.1",
+    "sinon": "~1.8.2"
+  }
+}
