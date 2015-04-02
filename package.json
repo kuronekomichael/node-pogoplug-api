@@ -1,6 +1,6 @@
 {
   "name": "pogoplug-api",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "UNOFFICIAL pogoplug api for nodejs",
   "main": "lib/pogoplug.js",
   "scripts": {
