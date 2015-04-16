@@ -4,7 +4,7 @@ pogoplug-api
 [![NPM version][npm-badge]](http://badge.fury.io/js/pogoplug-api)
 [![Build status][travis-badge]](https://travis-ci.org/kuronekomichael/node-pogoplug-api)
 [npm-badge]: https://badge.fury.io/js/pogoplug-api.png
-[travis-badge]: https://travis-ci.org/kuronekomichael/node-pogoplug-api.png?branch=master
+[travis-badge]: https://travis-ci.org/kuronekomichael/node-pogoplug-api.svg?branch=master
 
 UNOFFICIAL pogoplug api for nodejs
 
